@@ -1,7 +1,7 @@
 # Research-Experiences-and-Publication
 
 
-### 1. Sports analytics using CNN-LSTM, KAIST, South Korea
+### 1. Sports analytics using deep learning, KAIST, South Korea
 
 
 
