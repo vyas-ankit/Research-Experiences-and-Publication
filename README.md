@@ -7,4 +7,4 @@
 
 
 
-### 2. Designing cost-optimal acceptance sampling plans for supply chain optimizaiton, NTHU, Taiwan
+### 2. Design of cost-optimal acceptance sampling plans, NTHU, Taiwan
