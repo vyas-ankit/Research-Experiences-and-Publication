@@ -1,9 +1,10 @@
 # Research-Experiences-and-Publication
 
-## Sports analytics using CNN-LSTM, KAIST, South Korea
+
+### 1. Sports analytics using CNN-LSTM, KAIST, South Korea
 
 
 
 
 
-## Dsigning cost-optimal acceptance sampling plans for supply chain optimizaiton, NTHU, Taiwan
+### 2. Designing cost-optimal acceptance sampling plans for supply chain optimizaiton, NTHU, Taiwan
